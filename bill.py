@@ -1,1 +1,1 @@
-print("Bill managment system.")
+print("Bill managment system")
