@@ -1,6 +1,6 @@
 # Bill Management System
 
-This Python program allows users to generate bills based on the provided product information. It calculates the total cost, applies discounts if applicable, and includes the current date and time in the bill output.
+This Python program allows users to generate bills based on the provided product information. It calculates the total cost, applies discounts if applicable, and includes the current date and time in the bill output.<br><br>
 ![Capture](https://github.com/Isuru-27/Bill-Management-System/assets/139687227/83bb249e-3f9d-416d-9309-94de82b1bd4d)
 
 ## How to Use
@@ -29,11 +29,11 @@ Suppose you want to generate a bill for purchasing two products:
    - Enter item name: T Shirt
    - Enter item price: 1500
    - Enter item Quantity: 2
-   - Enter item discount percentage: 5<br>
+   - Enter item discount percentage: 5<br><br>
   ![Capture1](https://github.com/Isuru-27/Bill-Management-System/assets/139687227/39fa8f78-732b-4c5d-b680-6164fc2999cd)
 
 
-The program output will display:
+The program output will display:<br><br>
 ![Capture2](https://github.com/Isuru-27/Bill-Management-System/assets/139687227/749cdc97-1876-4901-82a5-f9ec0a25fa8c)
 
 ## Contributors
