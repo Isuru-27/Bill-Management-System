@@ -29,7 +29,7 @@ Suppose you want to generate a bill for purchasing two products:
    - Enter item name: T Shirt
    - Enter item price: 1500
    - Enter item Quantity: 2
-   - Enter item discount percentage: 5
+   - Enter item discount percentage: 5<br>
   ![Capture1](https://github.com/Isuru-27/Bill-Management-System/assets/139687227/39fa8f78-732b-4c5d-b680-6164fc2999cd)
 
 
